@@ -1,3 +1,4 @@
+# This Is Just A Guideline For A Future Project, Not The Actual Project Itself
 # Architect: A Modal Code Editor Built for Velocity
 
 Architect is a **keyboard-first modal IDE** designed for developers who refuse to compromise between speed and power. Every feature exists to eliminate friction: modal editing enables fluid text manipulation, Tree-sitter provides instantaneous syntax awareness, LSP delivers intelligent code completion, and a Lua-based plugin system offers boundless customization. The architecture leverages Rust's performance guarantees with rope-based text buffers, iced's Elm-inspired reactive rendering, and deep Git integration—all orchestrated through a fully keyboard-navigable interface optimized for Linux with cross-platform support.
